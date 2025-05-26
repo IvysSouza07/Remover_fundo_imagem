@@ -90,7 +90,7 @@ removedor-fundo-gui/
 └── README.md                # Este arquivo
 ```
 
-## ✅ Testado em
+## Testado em
 
 - Windows 10/11 com Python 3.10
 
