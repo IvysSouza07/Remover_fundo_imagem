@@ -86,6 +86,11 @@ python app.py
 
 ---
 
-## Autor
+## Autores
 
-Desenvolvido por Marcos Alexandre, Mateus Jairan e Ivys Souza.
+Marcos Alexandre - [![Ver no GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/Shaqueda?tab=repositories)
+
+Mateus Jairan - [![Ver no GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/mateusjairan?tab=repositories)
+
+Ivys Souza - [![Ver no GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/IvysSouza07?tab=repositories)
+
