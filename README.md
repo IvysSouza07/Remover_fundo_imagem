@@ -7,7 +7,7 @@ Aplicativo desktop com interface gráfica que permite **remover o fundo de image
 
 ## Captura de Tela
 
-![Screenshot do aplicativo](tela escura.png)
+![Screenshot do aplicativo](prints/tela clara.png)
 
 > 💡 Coloque uma imagem da tela do programa com o nome `screenshot.png` na raiz do projeto para que ela apareça corretamente.
 
