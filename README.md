@@ -7,7 +7,7 @@ Aplicativo desktop com interface gráfica que permite **remover o fundo de image
 
 ## Captura de Tela
 
-![Screenshot do aplicativo](![Image](https://github.com/user-attachments/assets/6fc81d09-5709-4a34-bf75-9d3a19d0c977))
+![Screenshot do aplicativo](https://github.com/user-attachments/assets/6fc81d09-5709-4a34-bf75-9d3a19d0c977)
 
 > 💡 Coloque uma imagem da tela do programa com o nome `screenshot.png` na raiz do projeto para que ela apareça corretamente.
 
