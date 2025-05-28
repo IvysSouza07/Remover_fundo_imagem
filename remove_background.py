@@ -1,4 +1,10 @@
 """
+Autores: 
+Marcos Alexandre Moraes da Silva
+Ivys Emanoel Cordeiro de Souza Lima
+Mateus Jairan Rodrigues
+"""
+"""
 Aplicativo desktop com interface gráfica para remoção de fundo de imagens.
 Permite arrastar e soltar imagens ou selecionar arquivos manualmente.
 Utiliza a biblioteca rembg para processar imagens com inteligência artificial.
